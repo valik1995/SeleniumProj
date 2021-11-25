@@ -21,12 +21,15 @@ public class Selenium {
     }
 
     @Test
-    public  void test() throws InterruptedException {
+    public  void test(){
             driver.get("https://www.google.com/");
             WebElement input = driver.findElement(By.className("gLFyf"));
             input.sendKeys("123\n");
             WebElement result = driver.findElement(By.xpath("//h3[text() = 'Jess Glynne - 123 [Official Live Video] - YouTube']"));
             Assert.assertEquals(result.getText(), "Jess Glynne - 123 [Official Live Video] - YouTube");
+
+
+
     }
 
     @AfterMethod
