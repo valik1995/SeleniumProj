@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="38252" started-at="2021-12-02T12:56:47 MSK" finished-at="2021-12-02T12:57:25 MSK">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="38252" started-at="2021-12-02T12:56:47 MSK" finished-at="2021-12-02T12:57:25 MSK">
+      <class name="DemoqaFormFillingTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:DemoqaFormFillingTest@29ca901e]" name="before" is-config="true" duration-ms="38" started-at="2021-12-02T12:56:54 MSK" finished-at="2021-12-02T12:56:54 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:DemoqaFormFillingTest@29ca901e]" name="beforeTest" is-config="true" duration-ms="1603" started-at="2021-12-02T12:56:54 MSK" finished-at="2021-12-02T12:56:55 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="fillForm()[pri:0, instance:DemoqaFormFillingTest@29ca901e]" name="fillForm" duration-ms="6033" started-at="2021-12-02T12:56:55 MSK" finished-at="2021-12-02T12:57:01 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method status="PASS" signature="after()[pri:0, instance:DemoqaFormFillingTest@29ca901e]" name="after" is-config="true" duration-ms="677" started-at="2021-12-02T12:57:01 MSK" finished-at="2021-12-02T12:57:02 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- DemoqaFormFillingTest -->
+      <class name="wikipediaTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:wikipediaTest@5025a98f]" name="before" is-config="true" duration-ms="24" started-at="2021-12-02T12:57:21 MSK" finished-at="2021-12-02T12:57:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:wikipediaTest@5025a98f]" name="beforeTest" is-config="true" duration-ms="1335" started-at="2021-12-02T12:57:21 MSK" finished-at="2021-12-02T12:57:22 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:wikipediaTest@5025a98f]" name="firstTest" duration-ms="2694" started-at="2021-12-02T12:57:22 MSK" finished-at="2021-12-02T12:57:25 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="after()[pri:0, instance:wikipediaTest@5025a98f]" name="after" is-config="true" duration-ms="656" started-at="2021-12-02T12:57:25 MSK" finished-at="2021-12-02T12:57:25 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- wikipediaTest -->
+      <class name="SergeyReviewTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:SergeyReviewTest@2d928643]" name="before" is-config="true" duration-ms="30" started-at="2021-12-02T12:57:14 MSK" finished-at="2021-12-02T12:57:14 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:SergeyReviewTest@2d928643]" name="beforeTest" is-config="true" duration-ms="1313" started-at="2021-12-02T12:57:14 MSK" finished-at="2021-12-02T12:57:15 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="review()[pri:0, instance:SergeyReviewTest@2d928643]" name="review" duration-ms="4701" started-at="2021-12-02T12:57:15 MSK" finished-at="2021-12-02T12:57:20 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- review -->
+        <test-method status="PASS" signature="after()[pri:0, instance:SergeyReviewTest@2d928643]" name="after" is-config="true" duration-ms="639" started-at="2021-12-02T12:57:20 MSK" finished-at="2021-12-02T12:57:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- SergeyReviewTest -->
+      <class name="CheckSeliniumSiteTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:CheckSeliniumSiteTest@4bec1f0c]" name="before" is-config="true" duration-ms="408" started-at="2021-12-02T12:56:47 MSK" finished-at="2021-12-02T12:56:48 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:CheckSeliniumSiteTest@4bec1f0c]" name="beforeTest" is-config="true" duration-ms="1658" started-at="2021-12-02T12:56:48 MSK" finished-at="2021-12-02T12:56:49 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="titleTest()[pri:0, instance:CheckSeliniumSiteTest@4bec1f0c]" name="titleTest" duration-ms="3623" started-at="2021-12-02T12:56:49 MSK" finished-at="2021-12-02T12:56:53 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+        <test-method status="PASS" signature="after()[pri:0, instance:CheckSeliniumSiteTest@4bec1f0c]" name="after" is-config="true" duration-ms="641" started-at="2021-12-02T12:56:53 MSK" finished-at="2021-12-02T12:56:54 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- CheckSeliniumSiteTest -->
+      <class name="SeleniumTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:SeleniumTest@6adede5]" name="before" is-config="true" duration-ms="28" started-at="2021-12-02T12:57:09 MSK" finished-at="2021-12-02T12:57:09 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:SeleniumTest@6adede5]" name="beforeTest" is-config="true" duration-ms="1299" started-at="2021-12-02T12:57:09 MSK" finished-at="2021-12-02T12:57:10 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="test()[pri:0, instance:SeleniumTest@6adede5]" name="test" duration-ms="3302" started-at="2021-12-02T12:57:10 MSK" finished-at="2021-12-02T12:57:13 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="after()[pri:0, instance:SeleniumTest@6adede5]" name="after" is-config="true" duration-ms="645" started-at="2021-12-02T12:57:13 MSK" finished-at="2021-12-02T12:57:14 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- SeleniumTest -->
+      <class name="FirstPageTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:FirstPageTest@5649fd9b]" name="before" is-config="true" duration-ms="18" started-at="2021-12-02T12:57:02 MSK" finished-at="2021-12-02T12:57:02 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:FirstPageTest@5649fd9b]" name="beforeTest" is-config="true" duration-ms="1296" started-at="2021-12-02T12:57:02 MSK" finished-at="2021-12-02T12:57:03 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testMainPage()[pri:0, instance:FirstPageTest@5649fd9b]" name="testMainPage" duration-ms="1969" started-at="2021-12-02T12:57:03 MSK" finished-at="2021-12-02T12:57:05 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMainPage -->
+        <test-method status="PASS" signature="after()[pri:0, instance:FirstPageTest@5649fd9b]" name="after" is-config="true" duration-ms="646" started-at="2021-12-02T12:57:05 MSK" finished-at="2021-12-02T12:57:06 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:FirstPageTest@5649fd9b]" name="beforeTest" is-config="true" duration-ms="1293" started-at="2021-12-02T12:57:06 MSK" finished-at="2021-12-02T12:57:07 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testURL()[pri:0, instance:FirstPageTest@5649fd9b]" name="testURL" duration-ms="1012" started-at="2021-12-02T12:57:07 MSK" finished-at="2021-12-02T12:57:08 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testURL -->
+        <test-method status="PASS" signature="after()[pri:0, instance:FirstPageTest@5649fd9b]" name="after" is-config="true" duration-ms="636" started-at="2021-12-02T12:57:08 MSK" finished-at="2021-12-02T12:57:09 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- FirstPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
